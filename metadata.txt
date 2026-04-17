@@ -1,0 +1,17 @@
+[general]
+name=Save Layers Exporter
+qgisMinimumVersion=3.22
+description=Easily export several layers to a specific folder.
+version=1.0.0
+author=SpatialHash
+email=ash.devmaps@email.com
+about=This plugin exports selected vector layers from the current QGIS project and can replace temporary memory layers with saved disk-based layers while preserving style.
+category=Vector
+hasProcessingProvider=no
+icon=icon.png
+experimental=False
+deprecated=False
+tracker=
+repository=https://github.com/Ashzero0/qgis_export-layers
+tags=export,vector,geojson,shapefile,csv,kml,layers
+homepage=

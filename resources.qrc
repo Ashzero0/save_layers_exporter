@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/save_layers_exporter">
+        <file>icon.png</file>
+    </qresource>
+</RCC>
