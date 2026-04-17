@@ -12,12 +12,19 @@
 
 3. Create a .zip file containing:
 save_layers_exporter/
+
 ├── __init__.py
+
 ├── metadata.txt
+
 ├── save_layers_exporter.py
+
 ├── exporter_dialog.py
+
 ├── resources.py
+
 ├── resources.qrc
+
 ├── icon.png
 
 ## Install the plugin in QGIS
